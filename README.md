@@ -1,3 +1,3 @@
 # Logic challenge
 
-Repositório com desafios solucionados, voltados para Aplicações Web.
+Repositório de estudos com desafios de lógica já resolvidos.
